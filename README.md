@@ -10,7 +10,9 @@
 
 <br/>
 
-![Ox Alpha Meadow Preview](preview.png)
+<div align="center">
+  <video src="preview.mp4" controls autoplay loop muted playsinline width="100%"></video>
+</div>
 
 ---
 
@@ -19,6 +21,7 @@
 - 🌾 **220,000 Instanced Grass Blades**: Near-field high-density geometry with dynamic distance fading seamlessly transferring to terrain LOD textures at range.
 - 🎨 **100% Procedural Textures**: Custom runtime canvas-generated tileable albedo, bump, and detail textures with zero image file downloads.
 - 💨 **GPU Wind Wave Dynamics**: Multi-frequency trigonometric vertex shader displacement creating organic rolling gust fronts across the field.
+- 🦋 **Animated Ground-Level Butterflies**: Procedurally textured butterflies (Monarch, Swallowtail, Blue Morpho, Pink) with realistic wing-flap physics and 3D flight paths.
 - 🌺 **Interactive Wildflowers**: Soft painterly crossed-card flower clusters with interactive mouse-brush raycasting physics and elastic spring-back bobbing.
 - 🏔️ **Analytic Terrain & Anti-Tiling**: Multi-octave value noise fBm displacement blended with irrational UV scale rotation shader overlays to eliminate repeating tile patterns.
 - 🌤️ **Atmospheric Depth**: Horizon-matched `FogExp2`, 3-stop sky gradient dome, drifting cloud sprite clusters, and ACES Filmic tonemapping with vignette.
@@ -36,7 +39,7 @@
 Meadow-3D-WebGL/
 ├── index.html        # Main entry point (standalone WebGL application)
 ├── meadow-v4.html    # Versioned release build
-├── preview.png       # Real-time WebGL scene screenshot
+├── preview.mp4       # Real-time WebGL scene video preview
 ├── design.md         # Technical architecture & shader design documentation
 ├── master-prompt.md # Procedural meadow specification guide
 └── README.md         # Project overview & documentation

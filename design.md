@@ -95,6 +95,13 @@ Raycast pointer → plane. While mouse-down, nearby heads accumulate
 `push`; each frame heads rotate by push, push decays ×0.92 (spring
 back), plus idle bob `sin(t·1.8 + x·3)·0.06`.
 
+## 4.5. Butterflies
+
+16 animated butterflies fluttering near ground level (0.45–1.35m above `groundH`):
+- **Textures**: Canvas-generated dual-wing patterns in 4 color schemes (Monarch Orange, Swallowtail Yellow, Sky Blue Morpho, Soft Pink).
+- **Hinged Wing Mesh**: Two wing planes pivoted at $X=0$ for realistic 16–24 Hz sinusoidal flapping.
+- **3D Flight Path**: Smooth Lissajous flutter trajectories near the ground, dynamically facing their direction of travel with ascent/descent pitch.
+
 ## 5. Atmosphere
 
 - **Sky**: back-side sphere, 3-stop gradient shader (horizon #D8E8EA →
