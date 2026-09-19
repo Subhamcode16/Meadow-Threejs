@@ -10,7 +10,7 @@
 
 <br/>
 
-![Ox Alpha Meadow Preview](preview.png)
+![Ox Alpha Meadow Preview](meadow-hero.png)
 
 <p align="center">
   🎬 <b><a href="preview.mp4">Click here to watch the HD Video Demo (preview.mp4)</a></b>
@@ -41,6 +41,7 @@
 Meadow-3D-WebGL/
 ├── index.html        # Main entry point (standalone WebGL application)
 ├── meadow-v4.html    # Versioned release build
+├── meadow-hero.png   # Real-time WebGL scene screenshot
 ├── preview.mp4       # Real-time WebGL scene video preview
 ├── design.md         # Technical architecture & shader design documentation
 ├── master-prompt.md # Procedural meadow specification guide
