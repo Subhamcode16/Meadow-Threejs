@@ -11,7 +11,9 @@
 <br/>
 
 <div align="center">
-  <video src="preview.mp4" controls autoplay loop muted playsinline width="100%"></video>
+  <video src="https://github.com/Subhamcode16/Meadow-Threejs/raw/main/preview.mp4" controls autoplay loop muted playsinline width="100%"></video>
+  <br/>
+  <sub><i>If the video player doesn't load automatically, click <a href="https://github.com/Subhamcode16/Meadow-Threejs/raw/main/preview.mp4">here to watch preview.mp4</a></i></sub>
 </div>
 
 ---
