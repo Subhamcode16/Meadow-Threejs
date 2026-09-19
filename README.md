@@ -10,11 +10,11 @@
 
 <br/>
 
-<div align="center">
-  <video src="https://github.com/Subhamcode16/Meadow-Threejs/raw/main/preview.mp4" controls autoplay loop muted playsinline width="100%"></video>
-  <br/>
-  <sub><i>If the video player doesn't load automatically, click <a href="https://github.com/Subhamcode16/Meadow-Threejs/raw/main/preview.mp4">here to watch preview.mp4</a></i></sub>
-</div>
+![Ox Alpha Meadow Preview](preview.png)
+
+<p align="center">
+  🎬 <b><a href="preview.mp4">Click here to watch the HD Video Demo (preview.mp4)</a></b>
+</p>
 
 ---
 
