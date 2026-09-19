@@ -8,6 +8,10 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Dependencies](https://img.shields.io/badge/Dependencies-Zero-brightgreen?style=for-the-badge)
 
+<br/>
+
+![Ox Alpha Meadow Preview](preview.png)
+
 ---
 
 ## ✨ Highlights & Features
@@ -32,6 +36,7 @@
 Meadow-3D-WebGL/
 ├── index.html        # Main entry point (standalone WebGL application)
 ├── meadow-v4.html    # Versioned release build
+├── preview.png       # Real-time WebGL scene screenshot
 ├── design.md         # Technical architecture & shader design documentation
 ├── master-prompt.md # Procedural meadow specification guide
 └── README.md         # Project overview & documentation
